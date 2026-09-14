@@ -1,0 +1,17 @@
+# Files excluded from `git archive` (the Adobe Commerce Marketplace package
+# and Composer dist tarball). Keeps the shipped extension to runtime code +
+# distribution metadata only — the Docusaurus docs site, CI workflows, and
+# release-please tooling never ship to merchants.
+#
+# NOTE: `git archive` honours the .gitattributes committed at the ref being
+# archived, NOT the working tree. Build packages from a tag/commit that
+# already includes this file.
+
+/docs                          export-ignore
+/.github                       export-ignore
+/.gitattributes                export-ignore
+/.gitignore                    export-ignore
+/.release-please-manifest.json export-ignore
+/release-please-config.json    export-ignore
+/RELEASING.md                  export-ignore
+.DS_Store                      export-ignore

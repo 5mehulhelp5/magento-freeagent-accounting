@@ -1,13 +1,40 @@
 {
     "name": "byte8/magento-freeagent-accounting",
-    "description": "Thin Magento 2 client for the Byte8 FreeAgent SaaS connector.",
-    "require": {
-        "php": "~8.1.0||~8.2.0||~8.3.0||~8.4.0||~8.5.0",
-        "byte8/module-core": "*",
-        "byte8/module-client": "*"
-    },
+    "description": "Magento 2 / Adobe Commerce connector for FreeAgent — syncs invoices, credit notes, contacts and payments into FreeAgent in near real time, with sync status surfaced in the Magento admin. Thin client for the Byte8 Ledger SaaS.",
     "type": "magento2-module",
     "license": "proprietary",
+    "keywords": [
+        "magento",
+        "magento2",
+        "magento-2",
+        "adobe-commerce",
+        "freeagent",
+        "accounting",
+        "bookkeeping",
+        "invoices",
+        "connector",
+        "byte8"
+    ],
+    "homepage": "https://byte8.io/products/freeagent",
+    "support": {
+        "email": "support@byte8.io",
+        "docs": "https://magento-freeagent.byte8.dev",
+        "issues": "https://github.com/byte8io/magento-freeagent-accounting/issues",
+        "source": "https://github.com/byte8io/magento-freeagent-accounting"
+    },
+    "authors": [
+        {
+            "name": "Byte8 Ltd",
+            "email": "support@byte8.io",
+            "homepage": "https://byte8.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "~8.1.0||~8.2.0||~8.3.0||~8.4.0||~8.5.0",
+        "byte8/module-core": "^3.0",
+        "byte8/module-client": "^1.0"
+    },
     "autoload": {
         "files": [
             "registration.php"

@@ -1,0 +1,57 @@
+Byte8 FreeAgent Accounting — Proprietary Software License
+
+Copyright © 2025–2026 Byte8 Ltd. All rights reserved.
+Byte8 Ltd, 66 Paul Street, London EC2A 4NA, United Kingdom.
+
+This software, including its source code, configuration, and accompanying
+materials (the "Extension"), is the proprietary and confidential property of
+Byte8 Ltd ("Byte8"). The Extension is licensed, not sold.
+
+1. GRANT OF LICENSE
+   Subject to the terms below and to an active Byte8 Ledger subscription,
+   Byte8 grants you a non-exclusive, non-transferable, revocable license to
+   install and use the Extension on Magento 2 / Adobe Commerce stores that you
+   own or operate, solely to connect those stores to the Byte8 Ledger service.
+
+2. RESTRICTIONS
+   You may not, in whole or in part: (a) redistribute, resell, sublicense,
+   rent, lease, or otherwise make the Extension available to any third party;
+   (b) modify, adapt, translate, or create derivative works, except changes to
+   your own store configuration necessary for normal use; (c) reverse engineer,
+   decompile, or disassemble the Extension, except to the extent this
+   restriction is prohibited by applicable law; or (d) remove, obscure, or
+   alter any copyright, trademark, or other proprietary notices.
+
+3. HOSTED SERVICE DEPENDENCY
+   The Extension is a thin client for the Byte8 Ledger hosted service and
+   requires an active subscription and network connectivity to that service to
+   function. Byte8 may modify or discontinue the hosted service in accordance
+   with its service terms.
+
+4. OWNERSHIP
+   Byte8 retains all right, title, and interest in and to the Extension,
+   including all intellectual property rights. No rights are granted other than
+   those expressly set out in this license.
+
+5. DISCLAIMER OF WARRANTY
+   THE EXTENSION IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, BYTE8 SHALL NOT BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY
+   LOSS OF PROFITS, REVENUE, OR DATA, ARISING OUT OF OR RELATED TO THE USE OF
+   OR INABILITY TO USE THE EXTENSION.
+
+7. TERMINATION
+   This license terminates automatically if you breach any of its terms, or on
+   termination of your Byte8 Ledger subscription. On termination you must cease
+   all use of the Extension and remove it from your systems.
+
+8. GOVERNING LAW
+   This license is governed by the laws of England and Wales, and the courts of
+   England and Wales shall have exclusive jurisdiction over any dispute arising
+   from it.
+
+For licensing questions contact support@byte8.io.
